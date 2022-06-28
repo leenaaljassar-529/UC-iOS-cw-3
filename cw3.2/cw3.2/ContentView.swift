@@ -15,7 +15,7 @@ struct ContentView: View {
 
         VStack  (spacing: 50){
             HStack{
-                Text("سبحان الله العظيم")
+                Text("استغفر الله العظيم")
                     .font(.system(size: 30))
                     .padding()
                 
@@ -33,7 +33,7 @@ struct ContentView: View {
                     
             }
             HStack{
-                Text("سبحان الله العظيم")
+                Text("سبحان الله و بحمده")
                     .font(.system(size: 30))
                     .padding()
                 
